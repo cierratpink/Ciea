@@ -506,7 +506,7 @@
 				38F2E2331FE0D0B6007241CB /* Frameworks */,
 				38F2E2341FE0D0B6007241CB /* Resources */,
 				38B18CC31FE22C91005AA896 /* Fabric */,
-				EA18C4F1306D7737BA6172C8 /* [CP] Embed Pods Frameworks */,
+				EA18C4F1306D7737BA6172C8 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -644,7 +644,7 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Fabric/run\" 3ab14d933cbf3577dd7434aa17e1171fdd726172 a7e273788cbf79557095d9bd720a5d71abef69142d7a82ef17e9d88751ee49d8\n";
 		};
-		EA18C4F1306D7737BA6172C8 /* [CP] Embed Pods Frameworks */ = {
+		EA18C4F1306D7737BA6172C8 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
