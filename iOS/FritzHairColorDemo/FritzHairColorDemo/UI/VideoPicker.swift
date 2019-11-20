@@ -1,3 +1,11 @@
+//
+//  VideoPicker.swift
+//  FritzVisionVideoDemo
+//
+//  Created by Steven Yeung on 11/8/19.
+//  Copyright © 2019 Fritz. All rights reserved.
+//
+
 import UIKit
 
 public protocol VideoPickerDelegate: class {
