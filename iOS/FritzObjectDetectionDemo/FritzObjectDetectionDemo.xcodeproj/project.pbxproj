@@ -98,7 +98,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3B3BCC0E2360AE3700898CF5 /* Build configuration list for PBXNativeTarget "FritzObjectDetectionDemo" */;
 			buildPhases = (
-				05857ECE8C80580563E7EB9D /* [CP] Check Pods Manifest.lock */,
+				05857ECE8C80580563E7EB9D /* ShellScript */,
 				3B3BCBF62360AE3600898CF5 /* Sources */,
 				3B3BCBF72360AE3600898CF5 /* Frameworks */,
 				3B3BCBF82360AE3600898CF5 /* Resources */,
@@ -160,7 +160,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		05857ECE8C80580563E7EB9D /* [CP] Check Pods Manifest.lock */ = {
+		05857ECE8C80580563E7EB9D /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (

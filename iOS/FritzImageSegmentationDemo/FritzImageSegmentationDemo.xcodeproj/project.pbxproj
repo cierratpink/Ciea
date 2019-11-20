@@ -98,7 +98,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 830D47D6216CF3530003DE84 /* Build configuration list for PBXNativeTarget "FritzImageSegmentationDemo" */;
 			buildPhases = (
-				C9497E339FE0479F9C03BBC9 /* [CP] Check Pods Manifest.lock */,
+				C9497E339FE0479F9C03BBC9 /* ShellScript */,
 				830D47B5216CF3530003DE84 /* Sources */,
 				830D47B6216CF3530003DE84 /* Frameworks */,
 				830D47B7216CF3530003DE84 /* Resources */,
@@ -160,7 +160,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		C9497E339FE0479F9C03BBC9 /* [CP] Check Pods Manifest.lock */ = {
+		C9497E339FE0479F9C03BBC9 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (

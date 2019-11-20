@@ -95,7 +95,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 83AC97C821495DD600E86B44 /* Build configuration list for PBXNativeTarget "FritzStyleTransferDemo" */;
 			buildPhases = (
-				5D1BF771AE4439EF6FE66C95 /* [CP] Check Pods Manifest.lock */,
+				5D1BF771AE4439EF6FE66C95 /* ShellScript */,
 				83AC97B221495DD400E86B44 /* Sources */,
 				83AC97B321495DD400E86B44 /* Frameworks */,
 				83AC97B421495DD400E86B44 /* Resources */,
@@ -158,7 +158,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		5D1BF771AE4439EF6FE66C95 /* [CP] Check Pods Manifest.lock */ = {
+		5D1BF771AE4439EF6FE66C95 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (

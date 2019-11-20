@@ -50,6 +50,8 @@ Attach a device or use an emulator to run the app. If you get the error "Please 
 
 [iOS SDK Reference Docs](https://docs.fritz.ai/iOS/latest/index.html?utm_source=github&utm_campaign=fritz-examples)
 
+[iOS Fritz Vision Video Docs](https://docs.fritz.ai/develop/vision/video/ios.html)
+
 ## Join the community
 
 [Heartbeat](https://heartbeat.fritz.ai/?utm_source=github&utm_campaign=fritz-examples) is a community of developers interested in the intersection of mobile and machine learning. [Chat with us in Slack](https://www.fritz.ai/slack?utm_source=github&utm_campaign=fritz-examples) and stay up to date on the latest mobile ML news with our [Newsletter](https://mobileml.us16.list-manage.com/subscribe?u=de53bead690affb8e9a21de8f&id=68acb5c0fd).
