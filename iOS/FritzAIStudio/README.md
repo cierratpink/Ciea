@@ -18,7 +18,7 @@ The steps below will guide you through downloading this project, getting it up, 
 
 In order to run this project you need:
 
-- Swift 4.1, Xcode 9.3 or later
+- Swift 5.1, Xcode 11.2 or later
 - Git Large File Storage (LFS) - [available here](https://git-lfs.github.com)
 - Cocoapods - [available here](https://cocoapods.org)
 

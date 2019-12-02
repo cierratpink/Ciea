@@ -12,7 +12,7 @@ Fritz AI is the machine learning platform for iOS and Android developers. Teach 
 
 ## Requirements
 
-- Xcode 10.2 or later.
+- Xcode 11.2 or later.
 - Xcode project targeting iOS 10 or above. You will only be able to use features in iOS 11+, but you still can include Fritz in apps that target iOS 10+ and selectively enable for users on 11+.
 - Swift projects must use Swift 4.1 or later.
 - CocoaPods 1.4.0 or later.
